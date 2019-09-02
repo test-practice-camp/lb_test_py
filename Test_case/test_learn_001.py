@@ -5,3 +5,5 @@
 i = '我爱你'
 while i:
     print(i)
+
+    print(栗菠是傻狗！")
