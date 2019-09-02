@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="26f908f8-55b0-475a-814a-cfe12d786b73" name="Default Changelist" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/homework_after_class/20-0.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/homework_after_class/20-1.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/homework_after_class/23-0.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/homework_after_class/23-1.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/homework_after_class/23-2.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/homework_after_class/23-3.py" />
+    <list default="true" id="26f908f8-55b0-475a-814a-cfe12d786b73" name="Default Changelist" comment="学习20-23习题">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -180,6 +174,14 @@
       <updated>1561990549677</updated>
       <workItem from="1561990553130" duration="366000" />
     </task>
+    <task id="LOCAL-00001" summary="学习20-23习题">
+      <created>1567434395428</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1567434395428</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -216,6 +218,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="学习20-23习题" />
+    <option name="LAST_COMMIT_MESSAGE" value="学习20-23习题" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
